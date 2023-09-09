@@ -1,0 +1,4 @@
+#logging:
+#  level:
+#    com.thinkconstructive.springbootlogging: DEBUG
+#    root: DEBUG
